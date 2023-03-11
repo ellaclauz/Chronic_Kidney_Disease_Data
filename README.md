@@ -16,3 +16,5 @@ The scatter plot visualization suggest that K-NN classifier would be pretty much
 ### Outcomes
 The result show that the future patient does not has chronic kidney disease
 
+### View this project: https://github.com/ellaclauz/Chronic_Kidney_Disease_Data/blob/main/CKD.ipynb
+
