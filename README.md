@@ -14,7 +14,7 @@ In this project, we worked with a data set that was collected to help doctors di
 The scatter plot visualization suggest that K-NN classifier would be pretty much accurate. The K-nearest neighbor algorithm is a supervised learning classifier which uses proximity to make classifications or predictions about the grouping of an individual data point.
 
 ### Outcomes
-The result show that the future patient does not has chronic kidney disease
+The result show that the future patient does not have chronic kidney disease
 
 ### View this project: [click the link](https://github.com/ellaclauz/Chronic_Kidney_Disease_Data/blob/main/CKD.ipynb)
 
