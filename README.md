@@ -6,7 +6,7 @@ In this project, we worked with a data set that was collected to help doctors di
 ## Process
 ### Step 1: Data Preparation
 * I import the relevant python libraries needed to carry out this analysis and carried out data cleaning by renaming the Blood Glucose Random" as "Glucose".
-* I used EDA( Exploratory data analysis) to checked the shape of the data and check the data types. I run the code to know the number of patients with chronic kidney disease and the patients without the disease. In the notebook "0" was used to represent patient without chronic kidney disease and "1" was used to represent patients with the patients. 
+* I used EDA( Exploratory data analysis) to checked the shape of the data and check the data types. I run the code to know the number of patients with chronic kidney disease and the patients without the disease. In the notebook "0" was used to represent patient without chronic kidney disease and "1" was used to represent patients with the disease. 
 * From our analysis, there are 115 patients without chronic kidney disease and 43 patients with the disease.
 * I used a scatter plot to visualize the relationship between Hemoglobin  and Glucose.
 
